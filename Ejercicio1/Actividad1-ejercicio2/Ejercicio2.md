@@ -1,4 +1,3 @@
-# Act1 Ejercicio 4 Recursividad-POO
-
+# Act1 Ejercicio 2
 ![Array](mapa-mental.jpg)  
 
